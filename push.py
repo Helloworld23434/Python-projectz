@@ -5,7 +5,7 @@ import os
 USERNAME = "Helloworld23434"  # your GitHub username
 TOKEN = "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"  # paste your token (starts with ghp_...)
 REPO = "Python-projectz"  # example: mycode
-BRANCH = "main"  # or 'master' if your repo uses that
+BRANCH = "master"  # or 'master' if your repo uses that
 LOCAL_PATH = "/storage/emulated/0/Python little projects"
 
 # === STEP 2: SETUP REMOTE URL ===
